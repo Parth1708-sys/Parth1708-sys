@@ -8,4 +8,7 @@
   💖 Hi 🥀, I'm Parth Verma
   <img height="30" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
 </h1>
-
+<h2 align="center">
+  📌 About Me 
+   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+</h2>
