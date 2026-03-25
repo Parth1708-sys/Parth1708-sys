@@ -1,16 +1,11 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" /> 
+</p>
+<!-- Typing Animation -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=400&color=00F7FF&center=true&vCenter=true&width=600&lines=Goodmorning!;and+in+case+i+don't+see+ya,;Goodafternoon,;Goodevening+and+Goodnight.;:-The+Truman+Show" /> 
+</p>
+<h1 align="center">
+  💖 Hi 🥀, I'm Parth Verma
+  <img height="30" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+</h1>
 
-<!--
-**Parth1708-sys/Parth1708-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
